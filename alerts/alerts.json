@@ -1,0 +1,16 @@
+[
+    {
+        "ip": "192.168.1.10",
+        "fail_count": 5,
+        "alert": "Brute-force pattern",
+        "window_start": "2025-06-23T01:32:55",
+        "window_end": "2025-06-23T01:34:25"
+    },
+    {
+        "ip": "8.8.8.8",
+        "fail_count": 5,
+        "alert": "Brute-force pattern",
+        "window_start": "2025-06-23T01:32:55",
+        "window_end": "2025-06-23T01:32:55"
+    }
+]
